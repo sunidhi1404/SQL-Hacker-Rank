@@ -4,9 +4,9 @@ The CITY table is described as follows:
 
 FIELD           TYPE
 ID              NUMBER
-NAME            VARCHAR(17)
-COUNTRYCODE     VARCHAR(3)
-DISTRICT        VARCHAR(20)
+NAME            VARCHAR2(17)
+COUNTRYCODE     VARCHAR2(3)
+DISTRICT        VARCHAR2(20)
 POPULATION      NUMBER
 */
 
